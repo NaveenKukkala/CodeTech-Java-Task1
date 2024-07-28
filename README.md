@@ -1,3 +1,9 @@
+### Name:Kukkala.Naveen
+### Company:CODTECH IT SOLUTIONS
+### ID:CT12DS382
+### Domain:PYTHON PROGRAMMING
+### Mentor:G.Sravani
+Overview OF The Project :-
 ## Simple Calculator
 
 ### Overview
@@ -34,7 +40,6 @@ The purpose of this project is to provide a basic understanding of how a calcula
 - **Additional Operations**: Implement additional operations such as exponentiation and square root.
 - **Graphical User Interface (GUI)**: Develop a GUI for better user interaction.
 - **Extended Functionality**: Support more complex calculations and scientific functions.
+- ![image](https://github.com/user-attachments/assets/6779a2b2-a1d2-4cbc-b168-6c26e4b9ef02)
 
----
 
-Feel free to modify this overview to better fit any additional features or specific details about your implementation.
